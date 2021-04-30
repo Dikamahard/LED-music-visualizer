@@ -1,6 +1,6 @@
 # LED-music-visualizer
-This is my first project using arduino, i make a simple audio visualizer using WS2812B LED. 
-the material you need to make this project is : 
+This is my first project using arduino, i made a simple audio visualizer using WS2812B LED. 
+the material you need to make this project are : 
 - any arduino board (im using arduino uno)
 - adressable RGB LED (im using WS2812B)
 - sound sensor (im using KY 037)
